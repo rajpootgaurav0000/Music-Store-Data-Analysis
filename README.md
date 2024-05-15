@@ -7,7 +7,7 @@
  
 📌Project Description📌
 
-🎯This project will show you how to analyze the digital TuneTracker music store database.
+🎯This project will show you how to analyze the  music store database.
 
 🎯I have examined the dataset with SQL and helped the store understand its business growth by answering simple and complex
 questions based on geographical growth, purchase power, total revenue, genre
