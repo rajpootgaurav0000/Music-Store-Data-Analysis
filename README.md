@@ -6,6 +6,7 @@
  Hello everyone,
  
 📌Project Description📌
+
 🎯This project will show you how to analyze the digital TuneTracker music store database.
 
 🎯I have examined the dataset with SQL and helped the store understand its business growth by answering simple and complex
@@ -17,6 +18,7 @@ customer in terms of purchase rate.
 
  
 📌Key findings:
+
 🎯Recognizing the most tenured employee within their job title highlights dedicated team members.
 
 🎯Uncovering high-invoice generating countries informs strategic market focus and growth opportunities.
